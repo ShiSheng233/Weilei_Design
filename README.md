@@ -1,5 +1,7 @@
 # Weilei_Design
 
+> "Nobody knows the UI designing better than me!" --WeiLei
+
 ![shisheng](https://s1.ax1x.com/2020/08/14/dik961.jpg)
 
 ![linesoft](https://s1.ax1x.com/2020/08/14/diEEzd.png)
