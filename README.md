@@ -10,9 +10,9 @@ Weilei_Design is a next generation design style.
 
 魏雷设计风格是次世代的设计语言。
 
-It will reshape your imagination of design.
+It will reshape your cognition of designing.
 
-它将重塑你对设计的想象。
+它将重塑你对设计的认知。
 
 ## How to Weilei_Design - 怎样使用魏雷设计风格
 
